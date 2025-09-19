@@ -1,3 +1,9 @@
+---
+title: Home
+nav_order: 1
+has_children: false
+---
+
 # 📘 GraphQL Cheat Sheet
 
 A quick reference guide to help you (and your team) learn and use GraphQL

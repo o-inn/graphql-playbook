@@ -1,3 +1,9 @@
+---
+title: Resources
+nav_order: 3
+has_children: false
+---
+
 # 📚 GraphQL Resources
 
 A curated list of free tools, playgrounds, and learning materials to help you
