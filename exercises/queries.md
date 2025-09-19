@@ -1,4 +1,10 @@
-## 🔍 Queries GraphQL Exercises
+---
+title: Queries
+parent: Exercises
+nav_order: 1
+---
+
+# 🔍 Queries GraphQL Exercises
 
 ### 1. Simple Query
 

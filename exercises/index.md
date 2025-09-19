@@ -1,3 +1,9 @@
+---
+title: Exercises
+nav_order: 2
+has_children: true
+---
+
 # 📝 GraphQL Exercises
 
 Welcome to the **GraphQL Exercises** section of the repo.  

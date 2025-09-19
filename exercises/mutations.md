@@ -1,4 +1,10 @@
-## 🛠️ Mutation GraphQL Exercises
+---
+title: Mutations
+parent: Exercises
+nav_order: 2
+---
+
+# ✏️ Mutation GraphQL Exercises
 
 ### 1. Fetch a User
 

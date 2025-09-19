@@ -1,3 +1,9 @@
+---
+title: Advanced
+parent: Exercises
+nav_order: 3
+---
+
 # ⚡ Advanced GraphQL Exercises
 
 These exercises cover **variables, fragments, multiple queries, and chaining
