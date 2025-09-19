@@ -1,4 +1,4 @@
-## 🟢 Beginner
+## 🔍 Queries GraphQL Exercises
 
 ### 1. Simple Query
 

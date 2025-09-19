@@ -1,4 +1,4 @@
-## 🟢 Beginner (GraphQL Zero)
+## 🛠️ Mutation GraphQL Exercises
 
 ### 1. Fetch a User
 
